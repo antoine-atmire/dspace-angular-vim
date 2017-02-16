@@ -1,0 +1,11 @@
+src/app/app-routing.module.ngfactory.ts
+src/app/app.component.ngfactory.ts
+src/app/app.module.ngfactory.ts
+src/app/header/header.component.ngfactory.ts
+src/app/home/home-routing.module.ngfactory.ts
+src/app/home/home.component.ngfactory.ts
+src/app/home/home.module.ngfactory.ts
+src/app/pagenotfound/pagenotfound.component.ngfactory.ts
+src/app/shared/shared.module.ngfactory.ts
+src/browser.module.ngfactory.ts
+src/node.module.ngfactory.ts
